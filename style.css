@@ -638,7 +638,6 @@ a[data-lightbox]:hover img {
     color: rgba(0, 0, 0, .5);
     background: none;
 }
-
 h1,
 h2,
 h3,
@@ -680,7 +679,7 @@ a {
     font-size: 1.6em;
 }
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 #italic
 {
@@ -696,7 +695,6 @@ p {
     font-size: 20px;
     font-family: "Open Sans";
 }
-
 .cta-hero {
     margin-top: 22px;
     color: #FFFFFF!important;
