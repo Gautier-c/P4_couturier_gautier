@@ -679,7 +679,7 @@ a {
     font-size: 1.6em;
 }
 p {
-    font-size: 12px;
+    font-size: 16px;
 }
 #italic
 {
@@ -758,7 +758,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(101, 84, 61, 0.7);
+    background-color: rgba(48, 48, 48, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -772,9 +772,12 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #000000;
 }
-
+.pdb
+{
+    padding-bottom: 30px;
+}
 .bgc-atomic-tangerine {
     background-color: #F3976C;
 }
